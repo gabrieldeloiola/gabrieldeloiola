@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Gabriel de Loiola Pessoa</h1>
+<h3 align="center">Back-end Software Developer</h3>
 
-<!--
-**gabrieldeloiola/gabrieldeloiola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrieldeloiola&label=Profile%20views&color=0e75b6&style=flat" alt="gabrieldeloiola" /> </p>
 
-Here are some ideas to get you started:
+- I’m currently working with **Java + Kotlin + Spring Boot + Oracle SQL Developer + Docker + New Relic + Splunk + TerraForm**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m looking for collaborate on **inspiring projects with nice people**
+
+- Ask me about **Java, Spring Boot, Kotlin, Linux,**
+
+<p align="left">
+</p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrieldeloiola&show_icons=true&locale=en&layout=compact" alt="gabrieldeloiola" /></p>
+
+
